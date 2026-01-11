@@ -19,7 +19,7 @@ databricks-subledger-monitoring-pipeline/
 ├── README.md
 ```
 
-![alt]()
+![alt](https://github.com/BogdanTopalov/databricks-subledger-monitoring-pipeline/blob/main/subledger-monitoring-pipeline.png?raw=true)
 
 ## What it does
 - Aggregates daily subledger balances
